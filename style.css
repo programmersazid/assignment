@@ -1,0 +1,372 @@
+.first-border{
+    max-width: 1345px;
+    height: 600px;
+    
+    margin-top: 20px;
+    background-image: url("../assets/Hero-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+    .Second-border{
+    width: 1090px;
+    height: 550px;
+    margin-top: 13px;
+    margin-bottom: 1px;
+    margin-left:  120px;
+    margin-right: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    .bold b{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+    letter-spacing: 0%;
+    
+    }
+    .dev h1{
+    margin-left: 180px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 5px;
+    letter-spacing: 0%;
+    }
+    .txt {
+        opacity: 0.7;
+        color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    
+    }
+    .btn{
+    width: 278px;
+    height: 66px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 170px;
+    
+    }
+    .bt{
+        width: 160px;
+        height: 50px;
+        border-radius: 8px;
+    
+    background: rgb(13, 19, 33);
+    }
+    #bn{
+        color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    }
+    .third-border{
+    width: 1140px;
+    height: 1395px;
+    left: 148px;
+    right: 152px;
+    top: 1000px;
+    bottom: 2993px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 80px 97px 80px 97px;
+    
+    
+    
+    }
+    .third-tb{
+    
+    width: 1150px;
+    height: 1400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    box-shadow: rgba(13, 19, 33, 0.02);
+    
+    }
+    .child{
+       
+        width: 950px;
+        height: 1250px;
+        margin-top: 70px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 0px;
+    
+    }
+    .development{
+        color: rgb(13, 19, 33);
+        font-family: Azeret Mono;
+        font-size: 32px;
+        font-weight: 800;
+        line-height: 37px;
+        letter-spacing: 0%;
+        text-align: center;
+        }
+    .four-border{
+    
+    width: 950px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    margin-top: 20px;
+    }
+    .four{
+       
+        width: 900px;
+        height: 300px;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        padding: 0px;
+        margin-top: 10px;
+    }
+    .four-border-one{
+      
+    width: 450px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+    padding: 0px;
+    }
+    .me button{
+    
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    }
+    .me:hover{
+        margin-top: 5px;
+        margin-left: 4px;
+        margin-right: 5px;
+      
+    
+    
+    
+    }
+    .imgs{
+    margin-left: 600px;
+    
+    position: absolute;
+    width: 259.56px;
+    height: 217.01px;
+    
+    }
+    .imagess{
+    width: 450px;
+    height: 300px;
+    }
+    .texts{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 2%;
+    
+    margin-top: 3px;
+    
+    }
+    .tx{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    margin-top: 100px;
+    opacity: 0.7;
+    margin-right: 230px;
+    }
+    
+    .web{
+    
+    width: 368px;
+    height: 72px;
+    margin-bottom: 230px;
+    padding:20px;
+    }
+    .ltr{
+        color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align:right;
+    margin-bottom: 230px;
+    }
+    .four-duplicate{
+      margin-left:400px ;
+     
+    }
+    .webs{
+        color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    position: static;
+    width: 468px;
+    height: 52px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 16px 0px;
+    }
+        
+    .learn{
+    
+    width: 20%;
+    height: 10%;
+    
+        opacity: 0.7;
+        margin-top: 10px;
+         
+    }
+    .world{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 5px;
+    }
+    .wd{
+        margin-top: 50px;
+    }
+     .five-border{ 
+       
+        width: 950px;
+        height: 550px;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 0px;
+        margin-top:20px;
+    
+        }
+    .five{
+        margin-left: 20px;
+    
+    }
+    .border{
+        width: 1000px;
+        height: 450px;
+      
+       
+        background-image: url("../assets/handshake.jpg");
+       
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-left: 200px;
+      
+        
+        margin-bottom: 250px;   
+    }
+    .txtes{
+        color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-right: 180px;
+    margin-top: 70px;
+    }
+    .t{
+        color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+    position: static;
+    width: 606px;
+    height: 52px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: 16px 0px;
+    }
+    .box{
+    position: static;
+    width: 400px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 19px 20px 19px 20px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 16px;
+    box-sizing: border-box;
+    
+    border-radius: 8px;
+    
+    background: rgb(255, 255, 255);
+    }
+    .b{
+    position: static;
+    width: 40px;
+    height: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 17px 20px 17px 20px;
+    margin-left: 500px;
+    margin-bottom: 300px;
+    
+    
+    background:rgb(255, 255, 255);
+    
+    }
